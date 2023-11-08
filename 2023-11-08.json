@@ -1,0 +1,26 @@
+{
+  "name": "Claudia Walker",
+  "age": 23,
+  "address": {
+    "street": "Nofvis Court",
+    "city": "Govukna",
+    "state": "PA",
+    "zip": "81352"
+  },
+  "contact": {
+    "phone": "(564) 946-6474",
+    "servicePhone": "800812582"
+  },
+  "birthday": "1972-06-15T03:11:33.285Z",
+  "ip": "41.90.203.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Anawos vaha go wemce muwowa vo urtu gorwe jut lilka harrima socotu. Iplawma ufeperfi ezeotu ladkap noze cuusiguw vi inga lauzi jefcuok sa aptit ri go. Jicufvag doawla kajuv owe ozoelle dapguf iriweut tuz nijzalwov divwuji pi biiha ra. Zuf kabun bo ju hu mihidcoc anajalow nojvo fina wum movkomov la cohzusiji ka.",
+    "bio": "Ejazilci vekhe vi remefi ulevo cun uvebi rarmekle ro fa vucwa vemna apa juupaaco otdiv ohe. Diw poc aziwet fegman ongow ime jumcomaj lufro givuh ravvuv vosen budofu loalaru jikdow. Dugzud ken kul olu azafuje uhosu deb kidfu sugil me zetotmi si izu ni daizeumi bandugu cunev. Zutugti dibsugop ugekunlec tuzgur wazicgub nu idnu kelrero ud zi bo deuca ajovje. Esjuflek eh fajuw te kahduap fohtopih av ovuzaku sa co jom ojewsop jemidzo."
+  },
+  "apiKey": "6371017bf49cbe613be49ad78cb2de2faf48b782a16483757f67ed35bab71fb8",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
