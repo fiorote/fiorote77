@@ -1,0 +1,26 @@
+{
+  "name": "Henry Lane",
+  "age": 29,
+  "address": {
+    "street": "Tepat View",
+    "city": "Higerpo",
+    "state": "AZ",
+    "zip": "40575"
+  },
+  "contact": {
+    "phone": "(359) 300-2034",
+    "servicePhone": "800579334"
+  },
+  "birthday": "1975-09-03T16:35:55.635Z",
+  "ip": "68.121.209.227",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiv fa sana cokih wahihloc saw pupzodi alnor tudgakez saz awu maconu. Aliwa epluku je igihepu op kokakulol jouwe ec hifenko puze kegvi de gukur he zejoduf cewvik riwemuku abkopoz. An uzgu gufcog vu inu asewasoz haj lesolu adudowzo humkec ho atarih mo vera ic lav. Polpoec zetweruf siffec azi inuzuil cuatoka buudeko bige sa worhij olapes adufuna mukcug ic kog lejni weijaato. Urer tuvgofso volor bovegap tuku dovvek usowuf utiivi sehzu nekepo kelbib rebmakros sel jap. Sim evawa ruhina da gedhet olaeg en acomome wucnih puffami zotukev joviwre nor lop gunanmon lokelfin gut upiamo. Nuafo huhbo ib bevjuriv cil zufuse nofec bin ru rij coikewa ehfiljo kigle ikoigudut ruve meujno tanede gim.",
+    "bio": "Pezcab ipaej lok voval wofi rin pon wufkuv wolu cad tem fam rituhem rage lo fala vof ke. Seldu ca catefu gumaf kihicazo distuuma zez evug hehahe insimfo juhigkoc ag juluhmig laj. Gum miadoevi imuco hawzofi bugvu sutage kededgu lu ocavus ti jolpeere gefnew gomek boz popimu veiniebe. Labojawo tuto af dahih me dehduh futar va voih noow dagada emiek cifa kiwiz. Ehbuz ebohaceji jig fa pacli perubzan kelro hosgit pahikad widki zatifto bubancuf papica awu jarolmo gu og. Rop hu bahef rute docuzaj bamfe murgoira use eco bo wodi jowen wupobhi leta sare."
+  },
+  "apiKey": "262d3abb28d0725d9828e603adb8a06d526a681938b95eb8ea9153e74c389e86",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
