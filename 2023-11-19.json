@@ -1,0 +1,26 @@
+{
+  "name": "Mina Park",
+  "age": 27,
+  "address": {
+    "street": "Uksu River",
+    "city": "Gicisod",
+    "state": "TN",
+    "zip": "62545"
+  },
+  "contact": {
+    "phone": "(652) 726-7661",
+    "servicePhone": "800791445"
+  },
+  "birthday": "1999-04-30T01:03:05.182Z",
+  "ip": "158.172.120.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Lozeon pusu pefim jezopi til cepkor muwawi iz wo viphag ginad pogo vi vozogce ge jovjuza se tolu. Heutwac edgiv egle vageju fugru fihli ajunoma hud ho uzo mih ni hupa. Lusihtu sa co lauzu bodvufrad tu ena ziwawzom osuve pobaz ce gacdi ubezis evi sisi mo.",
+    "bio": "Ednoota avodegmog de ug bogira racne podla amolek jazezrim zejediz kimpinli saltug de li taf apizovaj tivo. Icitos lo om cagadaj jaw gomlem ul dug pun mulwi ke nualu dubrip ohejo. Kil jumag ulajejip kaamnuk idu zupekled jubaco fadufa hihufofaz duru beha arotmo ci muh kucigi. Idehu ubbanlo bosselvo tonade durjehkec bebrotvo baifa kazzatem di uhomiw kok ledi ifok hadnipe."
+  },
+  "apiKey": "bf6448413b711d275a52bb08166dcaec818d7235bfd184e441b1475de1e8f20b",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
