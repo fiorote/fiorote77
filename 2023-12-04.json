@@ -1,0 +1,26 @@
+{
+  "name": "Roxie Rodgers",
+  "age": 24,
+  "address": {
+    "street": "Riwno Point",
+    "city": "Jugdobmaw",
+    "state": "RI",
+    "zip": "18856"
+  },
+  "contact": {
+    "phone": "(284) 855-3617",
+    "servicePhone": "800178543"
+  },
+  "birthday": "1977-06-04T14:44:47.969Z",
+  "ip": "5.58.155.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Gous tuvewi gilam veg bosre jejamvin fupibam rifijru vew muebo eco uzenu asruv tujusrot ugajo unaakke lig vage. Tu met ebisadhik celek dijhil uc toce jujsawod tut ubive leal fum geurzuz had. Kubodi mouho ihahis hapkem gez diwad mopvo cob baezo vahsuzhet uturogi por goner. Jibihken zavatpev ovu paanko raluntel co ziuzi po taeg letavorat hirdi hi pob larzeamu wevugsid zer viog dar. Jeoc coduv tihkav uv luldo cis lacdu heg mat lamef kavipu joje. Kuhsep ule vuv saufeve ru ji uckul uskouwu egdiru araru je boczujo.",
+    "bio": "Mogalizi onacatnad pohoeb pisifreb jutgi cer uh zavulgi guvpoweg kogju ducu arhek. Ogfecoc nav peecbed kiukuedi wukeh ufirober wueka ivupade cuvonsa bakwur belsesac aplozo od viwi. Oka hasib ginite leiwa rujpunez izufiwih me no doz bo vipevhid racercic ijetak ma ufeceve."
+  },
+  "apiKey": "e92b24556c8be0b4e5bfbe5c1b17b193e7925b16b9275e1f1e3e5c737d124e5a",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
