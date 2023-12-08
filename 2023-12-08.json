@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Owens",
+  "age": 43,
+  "address": {
+    "street": "Lolaj Mill",
+    "city": "Ruluneza",
+    "state": "AZ",
+    "zip": "35436"
+  },
+  "contact": {
+    "phone": "(370) 814-2220",
+    "servicePhone": "800225384"
+  },
+  "birthday": "2002-06-04T19:38:48.402Z",
+  "ip": "65.200.57.195",
+  "foo": "bar",
+  "profile": {
+    "about": "On toaz ejepob jet golob suvuzco aki cedez keig popeg dooj riso. Etidehta olaamozi oj uc se omrocij sahotra vi bib vonit ug cuzisud iz pikwuta futwed goh gag kele. Kib dum icazob huh dufzirbo mas umhuuna hab ligwur bo durozgig pohamol uwmel ivuhu. Naosi dasbewote lob kavbak bef ifase tas up maeda gejeh zuwar nom. Bu seluzuote atiura jo ukohi otaguf baweka zobu tavatuog susugoz kiajo cappo gah ripobru. Am juonugoc inzovpog jim uje es mecijab wicfut zijkur wot ka je mebza fossan uvba. Wiwdor pojewis eghu kabva golpokza ped kicsij sev mackonuz daliwdu jo nac zasge fajo.",
+    "bio": "Kil imaajtu ig cedno nokrajah ud helnur telor tef johrojad co opiwoffa penapuh afgabhe ik zug burabkoc ita. Feta banzut vukpoh tufzid jaktub ne no zodjiwe jifo zob couku be cuvhi fijegpo. Pupcos vu jijizdal no soc pej wi paawdut cu ze wieh ba bu mikepzi alu."
+  },
+  "apiKey": "b54343aba06f44c52e431e8db06c303ca6ebe620466755ec9281a5acd01a5feb",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
