@@ -1,0 +1,26 @@
+{
+  "name": "Olivia Parker",
+  "age": 51,
+  "address": {
+    "street": "Dumla Key",
+    "city": "Encevo",
+    "state": "MD",
+    "zip": "42897"
+  },
+  "contact": {
+    "phone": "(244) 343-8731",
+    "servicePhone": "800977473"
+  },
+  "birthday": "1982-08-19T17:12:42.519Z",
+  "ip": "92.83.38.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Fabilgoc hu gauhuvu wa diwru ne kuh gekvaz ucwom reecabel ehece ezaecikep. Vu rocdi olura taz ubera voz emula ud udaletaj ti gomonejan uveizuvu ahgofu as. Ji sodefuhu na seguv acehew suesjiz no wiep dole zoh lewukti vufa udiidol azepe. Sosafkir vav za jeofafi samdima wezubnej ni top gomo poswegeg wiozo awro. Dor hiwef ho fomad gohfuzav gimu kig godal zuwvanhop egurucgec zidfezug lil du aneaze ruezo.",
+    "bio": "Das cewcez ti dajo gi zoorepec suef hudsopoc nejtauri humilwep lukuc ivovot. Eco cokeh pi obo ihome wegun bebaf apud vem wenle sek to hej jij new muvfejkok fupi aho. Novpa tob so cekiwmiv ke rophar zuv co kujjir ic dib go."
+  },
+  "apiKey": "25fb4dbc96b5e3faded546d0140c3a28eb4d767ac6e5eb04e2d099ba85d710b6",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
