@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Watson",
+  "age": 47,
+  "address": {
+    "street": "Bimtar Pass",
+    "city": "Tawjakag",
+    "state": "NM",
+    "zip": "10975"
+  },
+  "contact": {
+    "phone": "(655) 621-1578",
+    "servicePhone": "800757647"
+  },
+  "birthday": "2003-11-02T10:25:28.278Z",
+  "ip": "58.200.172.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebo hevvam nerohi sipom geh ek fiojeuwa le wujef wa una zo eso ej vitap sohugzar gas bagi. Mahu sihbipu ap da fehugme nuv puiwe ve tiof lakomni nadcocra womzigute tohviser hohru tihna vesal bakit. Esaru here hi fif nilrukgo tipuh zacbap zi jufivof pu rav todedwid nufjasoj.",
+    "bio": "Pajaz azdo bun cud ujitikni dab nozpoh medgiavo bic ma vogcesa ciuf ikieni ziguv safag. Marosu ujurovaw bajcu guhouze iza iwku suk idolejzo jup dohse sunlum ha juw. Faar uj utre ma ajuek conob gukefa vidco de cobdiduf id otiti fiamu za ada asucucod buv. Samwuv cufetvad ejrinito maij fecferlo wik reca ugi fogitevi wu suv rishijo cuzu kobekpok li macifu jumosu zopo."
+  },
+  "apiKey": "3c05563faa2f2877a684125567fe8674c342274eadba79bb16ee9474f048f31a",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
