@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Hogan",
+  "age": 38,
+  "address": {
+    "street": "Meca Court",
+    "city": "Lisirufep",
+    "state": "AL",
+    "zip": "69315"
+  },
+  "contact": {
+    "phone": "(832) 651-2448",
+    "servicePhone": "800464259"
+  },
+  "birthday": "1991-03-21T04:04:09.009Z",
+  "ip": "191.38.249.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Kenav dov afi wa wuvuuzo lo vikjeseg fu kulimzo pawerwan kopuuku reeb mizsohus sozke wowdag sisvib uv. Ivmah nojocar heova ci parvi so cas hus covfistiv coblew gice ece wok vah ca pafic et ropaifu. Mundo ofi junone hek el so fo bi tiakivut bezef kuefbut fiwawat uf geko. Ve cipwe fuvdor jame loda fokhumdo mefe cuujiej te wubka ursutag keaf ub cuzujak cepuve.",
+    "bio": "Nawkovled fuk dulha gep ukozeker kanimi sefwah wiihezas uvi rufge jazew jasa nabus hiceh su luzam gezewi igemak. Noze lonopome pikeom ivpa do cu dicbojlab hifwik cih eluec adezoris sa. Hilawih atebu abanu fefo huk hulcokma mumab juvan men nusku wimo laol azkom gud gu."
+  },
+  "apiKey": "a6954e354a75ec4e5c46de03317b137bedf91b1e371a0e3332f5e2ea9bcb542b",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
