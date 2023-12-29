@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Porter",
+  "age": 37,
+  "address": {
+    "street": "Imgo Way",
+    "city": "Lowonef",
+    "state": "MT",
+    "zip": "52166"
+  },
+  "contact": {
+    "phone": "(640) 430-2081",
+    "servicePhone": "800971824"
+  },
+  "birthday": "2003-06-19T15:09:37.788Z",
+  "ip": "71.215.239.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Mov dowluk oppo pooco racviun itfewba fadesa ma agur mormuil mekjeb hug nounpov uromofe ibutu pat he tevriku. Dod jim li re bose nocef ewacalut kuw oteg novep hu jojem zi. Pu riod etoniw tige lad leog udpinboz ba culvolgaz nah redi ces huuh. Ifige zize numono bo tozoh pil jaenfa kiv zafevop dej fe ije bu isuvos co.",
+    "bio": "Tesibaba piktob me bu pevezen em welu bicpalpuj intatit sirroj sumitpur raragjur cipis lekpezok. Vozin iwipel levmez av foge mogolhef cokeh wut vigruok fufiawu to voomobi palukud. Le dazooj do garvug riwulpij jitud nikfe fidcuja havbi sez ociatsaj jujugoz re parize fornirum."
+  },
+  "apiKey": "d0d06f1d79e3d61e8a6f5e822c30622207b587849580653e3bdc29483f4b70f9",
+  "currency": {
+    "code": "COP",
+    "name": "Colombia Peso"
+  }
+}
