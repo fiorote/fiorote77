@@ -1,0 +1,26 @@
+{
+  "name": "Marc Lane",
+  "age": 50,
+  "address": {
+    "street": "Getfiz Way",
+    "city": "Nivvivide",
+    "state": "GA",
+    "zip": "59527"
+  },
+  "contact": {
+    "phone": "(289) 393-2738",
+    "servicePhone": "800255136"
+  },
+  "birthday": "1982-02-23T21:23:06.804Z",
+  "ip": "88.183.87.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Ric okuvumjov ku umage doba fozezike im onepe bi reetu kifri kusut. Egerar pukogo ciffuwo fogelfa fos te ba eranara risak sicuriho bekupde etudi lismibwor. Waradpe hoz wamluuba hupsenme zo mibe hugune ededav poso nuz do koleda. Uzrable nutouj wah ulenud cu abomovi hi bit ho birem efvim ragrewsag pu bouve fehha. Uhu cino orge wurulif caj jupegza cetsi kewhafnon ho zukuckit seorhi ki tojnebvel ugihu majoup tuesi durko.",
+    "bio": "Weoguhe besa utiasrin efnaduf kohuku lodaz ipci noldeveje govte va lazac piz zawji wi ehcuide gimweuz weena inuuluvup. Obacaz row micadge hir inuba febtip ali bogobras vairi jivhov haj defjovim likpem borhidem desikiza veg. Uwno aceibori oziok zusbegog defobola cu debaiz pe led beldoza aciozadi jehunnuz nanmaju enilapsuz pacwobzo poz gazagu netisodag. Epuibiko soija movdi behipurog ovedowgu ewi ogi kuzpaw ludsub ke kacefo tenivutem jakirud si ponmun derov jifokah vastof."
+  },
+  "apiKey": "45eda5c98218cbdcb71530601d4c47b09b9b060ab6cbffd7c261b82094b39465",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
