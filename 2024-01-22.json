@@ -1,0 +1,26 @@
+{
+  "name": "Erik Fernandez",
+  "age": 61,
+  "address": {
+    "street": "Jabe Junction",
+    "city": "Ruokamas",
+    "state": "SD",
+    "zip": "16111"
+  },
+  "contact": {
+    "phone": "(520) 561-3855",
+    "servicePhone": "800959591"
+  },
+  "birthday": "1991-12-09T01:44:35.043Z",
+  "ip": "178.197.56.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Ab cidul dojso esougi duzwep fu licicja zaguvwi pijdam def fowi fuwgic gur jafabsu vesu cablitoto sop. Cob vik hazjiif mi fe kubud pifhahe hap tujo ozmijaz sahdemop jal nu koafowu. Nalro josifi mizapop wojsuvo ujrucsud funzemhi we zi ribde bup tenrisri kedev.",
+    "bio": "Jicdoraju oz bigripado wucazu ake koto noojikek si welafe bu ibefoupi zufok jejwihoc vu. Lorfusic fip jejmur liwaror zuok wah ezuricwo nimusi monifud wo up pin zefneav ba ace raj idonis zigi. Fipvi mat dubvamze pufopfuj lu dom so lif kobvimu ziw fow temcofe. Cuegaru tot sohanuku goohaka naced huleg se uhagiiko gub jikibup to rifedhin juuriva jijhagip."
+  },
+  "apiKey": "edc3e0e3ad93971b7c64afad25e7c8947fae41e89315330367bf93287e4223cd",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
