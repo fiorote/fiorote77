@@ -1,0 +1,26 @@
+{
+  "name": "Christian Wagner",
+  "age": 22,
+  "address": {
+    "street": "Ivuze Place",
+    "city": "Lerumge",
+    "state": "OK",
+    "zip": "94947"
+  },
+  "contact": {
+    "phone": "(910) 330-4230",
+    "servicePhone": "800748893"
+  },
+  "birthday": "1980-09-24T01:49:03.900Z",
+  "ip": "95.139.142.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Sir unlek supaak fekug wo som ojafarjo guvcimeb emuve telkurof zuvovpic rab tu hi tam sic fouj. Mihdowno fo moj eceku ra jeb unogenfaf top valtu tomse bilo ruef nazu. Fa havlepet wero ju un zacaj desih adi ahu zahuljig womwof doajlaw vepmij paj og.",
+    "bio": "Badsi elepokif gag citulo deg we wapgeeko figka du cim kigepucoh hu asfiz awhi sipfolfa jasumu. Be rernijtel jiwzo dimu vumemfa esojal nedna riwbesoh po turvi puwniwi dubfaw ronic. Amazasdi vis fewecuno konasoko sopzep un zi meozva bav uggatnud teace hiota. Wi pu kam mijeznu sojire bi oki rubcit tejenna co ifefi ruseb."
+  },
+  "apiKey": "b9a40ea50b9a4558212d5e55eb1708abbfc3907479d80b0100ffae667f231820",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
