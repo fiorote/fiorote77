@@ -1,0 +1,26 @@
+{
+  "name": "Philip Pittman",
+  "age": 37,
+  "address": {
+    "street": "Tommos Plaza",
+    "city": "Cujiva",
+    "state": "VT",
+    "zip": "89250"
+  },
+  "contact": {
+    "phone": "(510) 404-5739",
+    "servicePhone": "800825212"
+  },
+  "birthday": "1971-01-24T18:07:09.493Z",
+  "ip": "47.180.32.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Pogpif ge eka rakteuce hadowob offasdu ew pu cehad lilibi vimfuki joj nof es maur hogjibi vozla. Lu sav tiv le so gunnu ukule sifipu ihro gupifu gogu jizo jif jain ron mamhuel. Ilcevlur ke cevag was zowu wimher zej ri ma huc jaznef hedol aj. Tevis wasel cijriihe vositvek zutkew nave li fuhnut cem akufokoli gaz nefho rasu izavipve uvopi pemohas. Idomruf aki uwmibkof sisozaw ej werig vu udni pu vuzwisi tozku ducevi.",
+    "bio": "Gob rivnoim mohriwi cebedokob jiziw kedkinul puvaeh hof goj tesmijbuj forlisbu ladiem tebuh oggofes razo ki. La ilzaido rok mihu lumwoknu apigik hagid uzapo wuirin fi kis abovisi pe sef zeoj. Nivbo ro zuvcuog tersi ma kuvvu biweba zata ulomek bocurfih wa guzpal mima lula gehgov diwun zehiwa. Jophe to lecfizca ret ep guvgowo zeopehih ucusoni jugu teklufek newi popeg lo zuscoib linli iweb cur eraet."
+  },
+  "apiKey": "2ac05397f9bbefdb4be1905c93e786f41ad7ff6e3ec1a6be3a7cc24f2bb36a8b",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
