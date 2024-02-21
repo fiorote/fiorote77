@@ -1,0 +1,26 @@
+{
+  "name": "Ola Stevenson",
+  "age": 46,
+  "address": {
+    "street": "Tihep Ridge",
+    "city": "Dikutpud",
+    "state": "OH",
+    "zip": "90725"
+  },
+  "contact": {
+    "phone": "(978) 568-6451",
+    "servicePhone": "800235947"
+  },
+  "birthday": "1992-03-24T19:14:40.441Z",
+  "ip": "135.21.28.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Azhi iniala va lom wurwuucu go gawe pebkujtif di jeli kameg coij fefgu. Pefsiec vi pub to riato hirtotre umgah zuhpab tacilizu ze waza eteru hot huw wi. Nizlujo biesaiw zeiw bacra dukme ah idu paweefe zeolsez falfod og geb wadof. Joitjim pe wa zo kuz doleki vuso eni neduoda evu uda melos tuthum odvuuzi uz pulab. Cucela avzu ju heocsur siv ik go fupralbav heso udedo sakzij jipat. Folfek kaswu wavtij hoidi ihiraf tod vu newbozti asutdod jed lu dogaro lerutow. Ba doireva ic hot ezsehet os vi elas mu zuj acicer pisle igiewte.",
+    "bio": "Nelo zo epuzu ta go hu dogu senpaw libelaj woj bose sek. Lasawovof bod aspe babinuema zob mu wuc motal jeg adrojju iz mehko civove cogkecap rufzunbiv. Izbug tohub iw dussa tiwulgug tadicgi ethu pap pi maseabi piwassil umzamjeb kezbose lu caupujin anojesafa oscig tidzud. Selufgu okavu gopi sisnoto led bap majgatap maeje ogice gam fitki meekbas ki ewo tev."
+  },
+  "apiKey": "52b7a8e412fa43d0adb7dc758f816a6e90ccc90a85aebfbf4f035febb4beff1a",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
