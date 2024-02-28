@@ -1,0 +1,26 @@
+{
+  "name": "Elva Douglas",
+  "age": 29,
+  "address": {
+    "street": "Dojwo Park",
+    "city": "Ivkino",
+    "state": "SC",
+    "zip": "32622"
+  },
+  "contact": {
+    "phone": "(538) 918-7577",
+    "servicePhone": "800913693"
+  },
+  "birthday": "2006-12-31T13:32:18.641Z",
+  "ip": "125.146.213.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubehono hemos les jijmegbud cedow gezuzil te kum depi sur ure seuv nuzoih dop luwebci vi. Je jog ecdojjek sooba zu hehita atemu votsu ate cinah to iv avoidu pibkunra sohburvag. Abaopi le weleccer laruwju midtecuh pandahzic do udecipnu gi ubufkab heabefi zu. Icbahpal witizu caziewa vobe ga midut hezhu uhpab no zufetle naactuc bi lozpid afa ge ewepujok. Ulo iwocudaf alafaw wa muosasa vukvameg fi tubottuj te bojegmun juramteh zoodju.",
+    "bio": "Wolobja halnofewe re arurutil us cekidu nuk va hi ner lugtauc obali. Zohow rondovi cumhe azoni hetom onvec dap je lu ez butja in sop. Kopjok epu hu worvoj siv bem wa dej ovenulad upemez cor dahaginem huhi gattaju."
+  },
+  "apiKey": "fd40ef83be0dc662c85eb9534002fa794858f115acaee0193cb80f194bb51ed3",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
