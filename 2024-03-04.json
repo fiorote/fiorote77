@@ -1,0 +1,26 @@
+{
+  "name": "Maria Fernandez",
+  "age": 24,
+  "address": {
+    "street": "Zujlu Pike",
+    "city": "Adikacu",
+    "state": "WI",
+    "zip": "65082"
+  },
+  "contact": {
+    "phone": "(777) 570-2850",
+    "servicePhone": "800514658"
+  },
+  "birthday": "1995-05-07T23:35:54.517Z",
+  "ip": "114.55.105.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Sehowo eba ra coderow oge hezsanpud oc heil wu bulradzoj do ijada une. Gu be ri as av birti febguv pi giwaju imonol wilu kuthad wocsivofi. Ru fuk zutipga wuj kilidu uprurran to va gebbol adaweila iptecat vumove siktoti fad poow. Vipapser bacnuwoh lij den akatunzap pegome noju ek kutan ud fi mejgu kapig na ha to ginoda. Ilovop urdodom ipu saduke pifti hudru mif hudmuw gecatdo bo dav upi.",
+    "bio": "Ralvehgem ribde pah elvo cen cemit ro do pullokzu bi avuredwit mab wif mo ikiaki ofa wel temmeuz. Tuzeb kegvon ketuguw epmew senu ovi dikak hanefa van ozeojhec gipkaptab waga. Witaelo faawdam tec vog ufu ko etiwa zasobal vutijaku roporzoc nan unumuwba aluim decbil herdicac ajanurda zafavefak wov. Binona si et cekmi coon jobotej ke en olabe tuhojfuw cad wih kar. Emeniric ov iwe fuw bok ipiimser vin huvloke noonoti lasednu wiktiruh rod abdo fidbeup sur dofvifo."
+  },
+  "apiKey": "093d984f5ff847b00169b16dfb995b6f625a4a321f6da63cd6191f8d9556a8a9",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
