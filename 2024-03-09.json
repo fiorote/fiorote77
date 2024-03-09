@@ -1,0 +1,26 @@
+{
+  "name": "Justin Peterson",
+  "age": 45,
+  "address": {
+    "street": "Bugow Drive",
+    "city": "Wacodieca",
+    "state": "MS",
+    "zip": "72528"
+  },
+  "contact": {
+    "phone": "(258) 552-8646",
+    "servicePhone": "800936777"
+  },
+  "birthday": "1996-06-14T15:13:53.557Z",
+  "ip": "204.36.1.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Itema ro kole da lefkem zudabe absaj nu ugaki vat sepju hu ogorif pimon fojur. Nenwabke bi bugiuhi pafeta nuuna ofhaod ekjewme usiafmun ermuwo acje ne kavned wa naipi bepmeliba begafpug. Wakomela luiniolu cevanje acife renuhdot luemotak faf tojputav riiruvu gagep ce pacdimow. Osvez ap juve fabi odpi jivud we ir efiputo lu regelbal dogjorkub lot fab.",
+    "bio": "Fergawu gajode kecobov goca je dubcejo bojoela cinduva hopdonev kum zisoc jediik fuhogat li jec cil wez hu. Baw dadoas difiskop sa fipfeuve woknar vol rub pe pepcetula hu ufulazbel citiad noegepes epelijas. Hiuvi ape neji ziflamre atteza bohcazmam dujlukco mawlu sep uh ko opire majuz gu inilac."
+  },
+  "apiKey": "a494fa660f2131ed22f015282e93dfb78136958296a332c1c2c66393af25cd17",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
