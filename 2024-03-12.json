@@ -1,0 +1,26 @@
+{
+  "name": "Lillie Lane",
+  "age": 46,
+  "address": {
+    "street": "Dowze Terrace",
+    "city": "Mumuwkir",
+    "state": "LA",
+    "zip": "63673"
+  },
+  "contact": {
+    "phone": "(744) 805-4410",
+    "servicePhone": "800947659"
+  },
+  "birthday": "1993-01-23T12:47:44.560Z",
+  "ip": "175.205.67.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Kudi urnoc ma ta womzib tereh fir dag fupow zejdorhuc iv dukozoki wikuwe moecefa en piaj pueti unozov. Oni celevved mekada ekoboleg owujujuh obojlu hizusec inekitut zipa wazcuj upco hosunta. Re sa jihgid udi umejisa bec vim erwumo irof jo ne dunnepgin vucovbe foola mentu. Hu toh ju ijokicbu mubzefos di vum uvu nolila kugimdi uvvibin pewug liraza rapjiafa di ka zasagcu.",
+    "bio": "Suj cunsuj ceoptig to cohhokem wu teif az zakle fam vad nolloweg uztom pivrakog. Itka tow wav re ecodil bivsurpa nucpudpug maj nugaper cuf jo dibuwud. Efohefin ev hasme nikodod odisewgi po ethe tojsokah cagi uwkirfe tosfib puloewo unese vuntir zazak huhwawa uraip fefmuv."
+  },
+  "apiKey": "9a5f5f78a4c91ed74958242c09f1cd8260791aff09cf9537425fb4aa2277b516",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
