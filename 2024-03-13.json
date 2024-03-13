@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Wilkins",
+  "age": 25,
+  "address": {
+    "street": "Cade Point",
+    "city": "Wehicazu",
+    "state": "RI",
+    "zip": "42641"
+  },
+  "contact": {
+    "phone": "(464) 849-9288",
+    "servicePhone": "800916969"
+  },
+  "birthday": "1966-12-20T15:31:25.379Z",
+  "ip": "253.202.140.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Alod red dektapju womu oh hagidawem hiwi cuwdu oprurkel mudcoho oloigwic ro jullu ri zuj suljuguc cu. Hacatco ivi hubip izdidtot emusokim nuh rek pufkotvov kubaf rokkega gosubo ewa tum zuwota. Jop cut pefij akcan ada hoh ulosumi kajje cecmurfib pujargaw hutdajo bikov. Tas ovitep tudmagov bew vitaze te ne bahem sozbopa tacbum gevdetuw gib mo parturmu oca bi luaj. Keklanot nagugiwev dufga dupgoaka civ efa vezig cuzike popsipduk wupgo zizjocek bib rupno. Edaocelug sihoful jafanlaf ga ro ben pub sahi es fi we ke otowitore suwap. Kum ha sa tite heg cekre recefueg kapikkin diur iguju dirwirwil gijnu som okko cizijpek.",
+    "bio": "Fat nezsesih femjebu cilum ifurru agizatdul lum alajak duije guwjidhic bumoiwa reckul raktoj cekovav di. Za ibwaw jipvu necdo ru se do ra ractoz nij defcujun pa evil gajoun fomoj wummir okotiv. Wi upiwispi ileizmu finsew om nubnoka pos aza kuva hec amdirge ovu bihulica wescow recajehir. Fimhocib demvif tuzac ce za bucer lag fuzepegej od lukzu dum bil hos. Run ossivabe vori sieku pep baguv onsum jezci ub ufa ud abbi. Awoka za uz urem uf icvo ko cumpa vesac hokga ruda pofroh valus. Ife kufe tutzu rirava divozo mamniskoc ta koisalul ota sazhuk bos forotka nagsin depjow."
+  },
+  "apiKey": "cc78d169a0f352194bc09333b96c78b9f10af041603c97b506b029290b3ca577",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
