@@ -1,0 +1,26 @@
+{
+  "name": "Jeanette McGee",
+  "age": 20,
+  "address": {
+    "street": "Neme Park",
+    "city": "Vozoleje",
+    "state": "IA",
+    "zip": "24120"
+  },
+  "contact": {
+    "phone": "(961) 995-4201",
+    "servicePhone": "800919719"
+  },
+  "birthday": "1979-02-15T07:43:04.010Z",
+  "ip": "11.106.9.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Cin ecpijofe lavjo poedtu dic guipo hetid dupfuccuv ditbul bu burra uvho zarkebace evijem ked fanojdac. Semvoc az erami cu pij wa bezabbe av kuwisar emoope vu ne jujabici il kewef wo. Lig jev ba kazjafi owemuge vodnu jossob utonoiwe rostufe lidne ejupe vevurus osuiwij ulaguno otnebbug ovoli. Lo maco vetmolraz navis lobcinwi keju golozu kefof ej luccov si fe ossavla. Guze kuremu vamas isaca zuun dadij paini hor el nigteg eviaz winogen zamjewwi pum zu. Ken awupun ufdun mik iraebo ak erelo ipiitriw labvatkuz pu ota doj pi jinoj fiwo bauje tovwepme wuud.",
+    "bio": "Peofmu gatpizol nuomalu fatejde kus rarvamub ulguhi lal banalit zu mem nu dow zuovguf. Faz ikawe mepgemzem zojuis nesnuab maju hogeref bih fuvafsum ic gidnav ba ca jeit zeno sal biepco. Ro gup me idizore agkaim kitaw du koddu biv vi zouho ciknikuv nujbabil tusnakbe."
+  },
+  "apiKey": "120310cf2133490ab165e8f63445f51f6d2a1e8237073b15d465e7b32bd7af5a",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
