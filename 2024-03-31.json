@@ -1,0 +1,26 @@
+{
+  "name": "Jean Dawson",
+  "age": 62,
+  "address": {
+    "street": "Wodwus Street",
+    "city": "Ekesicoto",
+    "state": "MS",
+    "zip": "09429"
+  },
+  "contact": {
+    "phone": "(382) 712-1661",
+    "servicePhone": "800922458"
+  },
+  "birthday": "1982-08-21T14:48:33.790Z",
+  "ip": "147.110.164.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu gij rifhikeh tezbawnu lajlo liz pa di relapu rokrim opu debzupo tubti vas ce mihcakroj. Et tisi wul awe taci uzavewsiw azirubfo to suodji figaf gaiwuwi vuwu kobet kihlahhe jutoh. Cu agizuhgem naicrun fa na bapmaz ibrim diga nawuswi da roju cele.",
+    "bio": "Lor oswuc zilfes ere buih dipvaw gi ud ga haba gofi lu citavo aptip zimimehuf kug. Lebibcoh finalfo deh hodoko jugu ceosu osuanubaw risircuz jo ulobaj gubractu icowluk. Rarjaw sofviuv navvo zoketu hodref ohahokkew dol nil dartof mihup wo wecud sem li. Nocrovi pe mukrar tas vogra fueru ra lafcivvat ezata ozi bil naw burub tetcerob gupwommim izoapiz tewi. Li kamvaczo saj dul mitbelpa ahilah amuvip ujo di rutezob accup comimseg raca wezu. Ziguva magsewa fa dowowa kella kejdot zuewu udi bon otfeg wi dinnactit punos. Ovu hece jedepke te ilwolo nosluvuv tis feeg gam barjuwoj si bot kihe isehaob."
+  },
+  "apiKey": "a3fe90d3be2737e0e4fd7ce32b677d4a55f43d92246ff8cf178b556b052a47ee",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
