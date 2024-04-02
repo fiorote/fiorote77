@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Jackson",
+  "age": 63,
+  "address": {
+    "street": "Kohal Terrace",
+    "city": "Jilazake",
+    "state": "VT",
+    "zip": "39784"
+  },
+  "contact": {
+    "phone": "(660) 818-8919",
+    "servicePhone": "800465893"
+  },
+  "birthday": "1999-10-22T12:20:07.769Z",
+  "ip": "175.201.217.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Mojwukig okari fafijcu iwfucav papabega cilib tadvakle fopi uvidvid vetemetu elururi tab eboirana movubga puceez danle je. Va rebidpi inod izata vawej kific vu noosuak ze vantej culip ake waurhov ogmod bivnohop di. Ij vadsoav tije peri nulle juzu duvje ezi semcoole welvuf gi natfijrak ogo.",
+    "bio": "Fe ta ma jazudsew ivugab motwaba otem cufwe fur emibo rew he ranuwa fubcuw fa vokzum kifa daloc. Hu didov feguwote gupwisimi bu dabetbe fuh huve hah zeed icutaco iwosa tademten filda cadhi. Umithok houcudir loecimup lec imusefih tegimi piok limjot lucso jarez humoriafi tasik ilgojvab."
+  },
+  "apiKey": "866bacb2d02fd7ee526d1a69bb6731ca7e642552a7d4180d69b3552ce405a154",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
